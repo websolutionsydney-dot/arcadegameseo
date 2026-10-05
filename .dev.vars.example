@@ -1,0 +1,2 @@
+# Optional Cloudflare Pages local development secret; copy to .dev.vars.
+RESEND_API_KEY=
