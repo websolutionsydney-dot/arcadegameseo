@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-05T00:40:58.703Z",
+  "mode": "development",
+  "pageRoutes": 3,
+  "unknownPageStatus": 404,
+  "unknownGuideStatus": 404,
+  "missingKeyEndpointStatus": 503,
+  "falseSuccess": false,
+  "emailSent": false
+}

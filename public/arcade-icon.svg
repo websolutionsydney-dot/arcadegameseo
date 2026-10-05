@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Arcade Game Australia joystick</title>
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff"/><stop offset="1" stop-color="#929296"/>
+    </linearGradient>
+    <radialGradient id="red" cx=".35" cy=".25" r=".8">
+      <stop stop-color="#ff757a"/><stop offset=".45" stop-color="#e31c21"/><stop offset="1" stop-color="#9b1119"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="13" fill="#fff"/>
+  <path d="M7 42 26 30l31 11v9L38 60 7 50Z" fill="#141416"/>
+  <path d="m9 41 18-10 28 10-18 11Z" fill="url(#silver)" stroke="#141416" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="27" cy="40" rx="7" ry="3.5" fill="#141416"/>
+  <path d="m20 19 7 20" fill="none" stroke="#141416" stroke-width="7" stroke-linecap="round"/>
+  <path d="m19 20 6 17" fill="none" stroke="#c9c9cd" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="18" cy="17" r="11" fill="url(#red)" stroke="#9b1119" stroke-width="1"/>
+  <ellipse cx="37" cy="37" rx="4" ry="2.5" fill="#e31c21" stroke="#141416" stroke-width="1.5"/>
+  <ellipse cx="45" cy="41" rx="4" ry="2.5" fill="#e31c21" stroke="#141416" stroke-width="1.5"/>
+</svg>

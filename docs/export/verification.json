@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-05T00:43:38.737Z",
+  "sourceCommit": "49f768c676b226fd92837028790e7d406edbf712",
+  "routes": [
+    "/",
+    "/arcade-machine-hire",
+    "/claw-machine-hire",
+    "/arcade-machine-placement",
+    "/arcade-machines-for-sale",
+    "/amusement-machine-supply-installation",
+    "/service-areas",
+    "/about",
+    "/contact",
+    "/privacy",
+    "/guides",
+    "/guides/arcade-machine-hire-costs",
+    "/guides/claw-machine-prize-planning",
+    "/guides/arcade-machine-placement-vs-buying",
+    "/guides/buying-an-arcade-machine",
+    "/guides/arcade-machine-delivery-checklist"
+  ],
+  "pages": 16,
+  "internalLinksAndAnchors": 570,
+  "uniqueLocalAssets": 29,
+  "unchangedOriginalFiles": 129,
+  "checks": [
+    "Complete static HTML for all 16 routes",
+    "Exact normalized page copy, headings and links",
+    "Exact titles, descriptions, canonicals, Open Graph, Twitter and JSON-LD",
+    "Exact image paths, alt text and dimensions",
+    "All local page assets and CSS fonts resolve",
+    "Original styling, content and component files retain SHA-256 hashes",
+    "Sitemap, robots and noindex 404 preserved",
+    "No Resend key/configuration or mail endpoint in client bundles"
+  ],
+  "limitations": [
+    "No email was sent during export verification.",
+    "Resend and the persistent database must be connected on the destination host.",
+    "This check does not establish a deployment on the user's Bolt or Cloudflare account."
+  ]
+}

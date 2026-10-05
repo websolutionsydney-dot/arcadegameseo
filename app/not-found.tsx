@@ -1,0 +1,1 @@
+export default function NotFound(){return <section className="error-page"><h1>GAME OVER?<br/>NOT QUITE.</h1><p>That page is not here. Let’s get you back to the good stuff.</p><a href="/" className="button button-brand">Back to home ↗</a></section>}

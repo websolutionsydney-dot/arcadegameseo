@@ -1,0 +1,267 @@
+{
+  "checkedOn": "2026-09-28T00:33:56.255Z",
+  "environment": "Built Cloudflare Worker, local runtime; no production authentication changes",
+  "checksPassed": true,
+  "pages": [
+    {
+      "url": "https://arcadegameaustralia.com.au/",
+      "status": 200,
+      "title": "Arcade Hire, Placement & Sales Sydney | Arcade Game Australia",
+      "description": "Arcade Game Australia: arcade and claw machine hire, commercial venue placement, sales, supply and installation across Sydney and NSW. Request a quote.",
+      "h1": "ARCADE GAMES. SYDNEY & NSW.",
+      "canonical": "https://arcadegameaustralia.com.au",
+      "schemaTypes": [
+        "WebPage",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/arcade-machine-hire",
+      "status": 200,
+      "title": "Arcade Game Hire Sydney | Arcade Game Australia",
+      "description": "Arcade game hire in Sydney for parties, weddings and corporate events. Find planning advice on machines, hire costs, delivery and setup. Request a quote.",
+      "h1": "Arcade Machine Hire Sydney",
+      "canonical": "https://arcadegameaustralia.com.au/arcade-machine-hire",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": 7
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/claw-machine-hire",
+      "status": 200,
+      "title": "Claw Machine Hire Sydney | Arcade Game Australia",
+      "description": "Claw machine hire in Sydney for parties, weddings and events. Plan prizes, space and delivery, find out what affects the hire price, and request a quote.",
+      "h1": "Claw Machine Hire Sydney",
+      "canonical": "https://arcadegameaustralia.com.au/claw-machine-hire",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": 7
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/arcade-machine-placement",
+      "status": 200,
+      "title": "Arcade & Claw Placement Sydney | Arcade Game Australia",
+      "description": "Commercial arcade and claw machine placement for Sydney and NSW pubs, clubs, RSLs, shopping centres, cinemas and play centres. Discuss your venue.",
+      "h1": "Arcade & Claw Machine Placement Sydney & NSW",
+      "canonical": "https://arcadegameaustralia.com.au/arcade-machine-placement",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": 7
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/arcade-machines-for-sale",
+      "status": 200,
+      "title": "Arcade Machines for Sale Sydney | Arcade Game Australia",
+      "description": "Arcade machines for sale in Sydney and NSW. Get buying advice on cabinet size, condition, commercial use, delivery and support, then enquire about current stock.",
+      "h1": "Arcade Machines for Sale Sydney",
+      "canonical": "https://arcadegameaustralia.com.au/arcade-machines-for-sale",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": 7
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/amusement-machine-supply-installation",
+      "status": 200,
+      "title": "Amusement Machine Supply & Installation | Arcade Game Australia",
+      "description": "Amusement machine supply and installation in Sydney and NSW. Plan equipment, coin-operated setups, delivery access, positioning and handover. Request a quote.",
+      "h1": "Amusement Machine Supply & Installation NSW",
+      "canonical": "https://arcadegameaustralia.com.au/amusement-machine-supply-installation",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Service",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": 7
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/service-areas",
+      "status": 200,
+      "title": "Arcade Hire & Placement Areas — Sydney & NSW | Arcade Game Australia",
+      "description": "Arcade and claw hire, placement, sales and installation enquiries across Sydney, Wollongong, Illawarra, the Central Coast and greater NSW.",
+      "h1": "ARCADE HIRE & PLACEMENT. SYDNEY & BEYOND.",
+      "canonical": "https://arcadegameaustralia.com.au/service-areas",
+      "schemaTypes": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "ItemList",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/about",
+      "status": 200,
+      "title": "About Us | Arcade Game Australia",
+      "description": "Meet Arcade Game Australia. Explore our approach to arcade hire, claw machines, venue placement, sales and installation across Sydney and NSW.",
+      "h1": "ABOUT US. ARCADE GAME AUSTRALIA.",
+      "canonical": "https://arcadegameaustralia.com.au/about",
+      "schemaTypes": [
+        "AboutPage",
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/contact",
+      "status": 200,
+      "title": "Arcade Machine Quotes — Sydney & NSW | Arcade Game Australia",
+      "description": "Request a quote for arcade machine hire, claw machine hire, venue placement, sales or installation. Send Arcade Game Australia your location and plans.",
+      "h1": "GET AN ARCADE MACHINE QUOTE.",
+      "canonical": "https://arcadegameaustralia.com.au/contact",
+      "schemaTypes": [
+        "ContactPage",
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/privacy",
+      "status": 200,
+      "title": "Privacy Notice | Arcade Game Australia",
+      "description": "How information submitted through the Arcade Game Australia enquiry form is collected and used.",
+      "h1": "PRIVACY NOTICE.",
+      "canonical": "https://arcadegameaustralia.com.au/privacy",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides",
+      "status": 200,
+      "title": "Arcade Machine Guides — Hire, Buying & Venue Planning | Arcade Game Australia",
+      "description": "Practical guides to arcade hire costs, claw-machine prizes, commercial placement, buying and delivery. Plan an event or games area in Sydney and NSW.",
+      "h1": "GOOD QUESTIONS. BETTER GAME PLANS.",
+      "canonical": "https://arcadegameaustralia.com.au/guides",
+      "schemaTypes": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "ItemList",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides/arcade-machine-hire-costs",
+      "status": 200,
+      "title": "Arcade Machine Hire Costs: Comparing Quotes | Arcade Game Australia",
+      "description": "Understand arcade hire costs, delivery, hire duration and venue access. Use a practical comparison checklist before booking machines for a Sydney or NSW event.",
+      "h1": "What goes into an arcade machine hire quote?",
+      "canonical": "https://arcadegameaustralia.com.au/guides/arcade-machine-hire-costs",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Article",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides/claw-machine-prize-planning",
+      "status": 200,
+      "title": "Claw Machine Hire: Prize Planning Guide | Arcade Game Australia",
+      "description": "Plan prizes for a hired claw machine: check fit, samples, quantities, refills and presentation before a party, wedding or corporate event.",
+      "h1": "Planning prizes for a hired claw machine",
+      "canonical": "https://arcadegameaustralia.com.au/guides/claw-machine-prize-planning",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Article",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides/arcade-machine-placement-vs-buying",
+      "status": 200,
+      "title": "Arcade Machine Placement vs Buying for Venues | Arcade Game Australia",
+      "description": "Compare arcade machine placement and ownership for pubs, clubs, RSLs and other venues. Review responsibilities, costs, income assumptions and trial questions.",
+      "h1": "Arcade machine placement or buying: a venue planning guide",
+      "canonical": "https://arcadegameaustralia.com.au/guides/arcade-machine-placement-vs-buying",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Article",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides/buying-an-arcade-machine",
+      "status": 200,
+      "title": "Buying an Arcade Machine: Price & Inspection Guide | Arcade Game Australia",
+      "description": "A practical arcade machine buying checklist covering the exact model, condition, total cost, dimensions, games, support, delivery and installation.",
+      "h1": "Buying an arcade machine: what to check before you commit",
+      "canonical": "https://arcadegameaustralia.com.au/guides/buying-an-arcade-machine",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Article",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    },
+    {
+      "url": "https://arcadegameaustralia.com.au/guides/arcade-machine-delivery-checklist",
+      "status": 200,
+      "title": "Arcade Machine Delivery & Space Checklist | Arcade Game Australia",
+      "description": "Plan arcade machine delivery and installation with a checklist for access, room layout, power, handover and collection at Sydney and NSW venues.",
+      "h1": "An arcade machine delivery checklist for venues and events",
+      "canonical": "https://arcadegameaustralia.com.au/guides/arcade-machine-delivery-checklist",
+      "schemaTypes": [
+        "WebPage",
+        "BreadcrumbList",
+        "Article",
+        "Organization",
+        "WebSite"
+      ],
+      "serviceRegionCount": null
+    }
+  ],
+  "internalLinksAndAnchorsChecked": 570,
+  "imageReferencesChecked": 58,
+  "compressedFontsChecked": 6,
+  "sitemapStatus": 200,
+  "robotsStatus": 200,
+  "missingPageStatus": 404,
+  "missingGuideStatus": 404,
+  "queryCanonicalChecked": true,
+  "limitations": "Private hosting access, final-domain DNS, Google indexing and field Core Web Vitals require public launch and are not established by this local audit."
+}

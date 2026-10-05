@@ -1,0 +1,18 @@
+{
+  "sourceCommit": "49f768c676b226fd92837028790e7d406edbf712",
+  "sourceSiteVersion": 9,
+  "standaloneBuild": "Passed: npm run build (Next.js static export)",
+  "pageComparison": "Passed: all 16 original page bodies, headings, links, metadata and schema",
+  "productionHTTP": "Passed: 16 pages, nested 404 and missing-key API response",
+  "developmentHTTP": "Passed: home, contact, guide, nested 404 and missing-key API response",
+  "cloudflarePagesFunctionCompilation": "Passed: wrangler pages functions build",
+  "sqlitePersistence": "Passed: persisted row survives reopen; migrations remain idempotent",
+  "secretScan": "No key or private credential patterns found; only empty environment examples included",
+  "emailDeliveryTest": "Simulated provider only; no real email sent during export",
+  "liveSiteChanged": false,
+  "reconnectionRequired": [
+    "RESEND_API_KEY in destination server runtime",
+    "Persistent Node database or Cloudflare D1 DB binding and migrations",
+    "Custom domain when moving production hosting"
+  ]
+}

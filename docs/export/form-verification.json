@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-05T00:35:37.940Z",
+  "transport": "Stubbed HTTPS provider; no real email sent",
+  "checks": [
+    "empty name",
+    "invalid email",
+    "header injection",
+    "missing message",
+    "invalid service",
+    "invalid date",
+    "honeypot",
+    "consent",
+    "invalid requests and missing key never send or show success",
+    "exact sender, recipient, reply-to and escaped HTML",
+    "duplicate and concurrent submissions send once",
+    "provider failure has no false success; safe idempotent retry",
+    "email rate limit enforced"
+  ]
+}
